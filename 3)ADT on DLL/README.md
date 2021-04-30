@@ -7,11 +7,3 @@ It takes an average of O(n) to access the node at a certain position.
 The first node of the list is called **head** and the last node is called **tail**.
 In a doubly linked list(DLL) each node contains data and the address of the next node and previous node.
 
-
-
-## Acknowledgments
-
-
-https://en.wikipedia.org/wiki/Doubly_linked_list
-
--picture

@@ -7,10 +7,3 @@ It takes an average of O(n) to access the node at a certain position.
 The first node of the list is called **head** and the last node is called **tail**.
 In a singly linked list(SLL) each node contains data and the address of the next node.
 
-
-
-## Acknowledgments
-
-https://en.wikipedia.org/wiki/Linked_list
-
--picture
